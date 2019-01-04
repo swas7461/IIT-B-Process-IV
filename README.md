@@ -2,6 +2,8 @@
 
 # Requirements:
 
+**For version 1:**
+
 1. Interpreter for Python 3
 2. pip or conda environment
 3. The following python packages installed:
@@ -9,9 +11,20 @@
     2. matplotlib
     3. numpy
 
-#How to Use:
+**For version 2:**
+
+1. Interpreter for Python 3
+2. pip or conda environment
+3. The following python packages installed:
+    1. pandas
+    2. matplotlib
+    3. numpy
+
+# How to Use:
 
 To use it, one must be privy to Command Prompt.
+
+**Note: The procedure for using is the same for versions 1 and 2.**
 
 To run the python script (i.e. 'process.py'):
 1. Open Command Prompt
