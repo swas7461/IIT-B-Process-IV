@@ -26,7 +26,7 @@ To use it, one must be privy to Command Prompt.
 
 **Note: The procedure for using is the same for versions 1 and 2.**
 
-To run the python script (i.e. 'process.py'):
+To run the python script (i.e. 'process_ver1.py' or 'process_ver2.py'):
 1. Open Command Prompt
 2. Navigate to the directory where the python script has been kept
 3. Enter the command 'python process.py'
